@@ -8,18 +8,22 @@ By default, it will output the result in JSON.
 ### Pre-requisites
 
 This application uses Docker containers, to ensure that the application will run on any operating system. Therefore,
-you will need to install [Docker Desktop](https://www.docker.com/products/docker-desktop/) on your computer to run this
+you will need to install [Docker](https://www.docker.com/products/docker-desktop/) on your computer to run this
 application.
 
 ### How to start the application
 
-To run the application, once you have Docker Desktop installed and running and have cloned the repository into the
+To run the application, once you have Docker installed and running and have cloned the repository into the
 directory of your choice, you can simply `cd` into the repository and run `make up` to bring up the application
-docker container.
+docker container. If you do not have the `Makefile` extension installed, alternatively you can run the following:
+
+```
+docker-compose up -d
+```
 
 *NOTE: The first time you bring the container up, the Docker Image being used will have to build. However, the next time
 you bring up the containers, you will not have to build the docker image again. If you do want to build the image again,
-you can simply run `make build`.*
+you can simply run `make build` (or `docker-compose up -d --build`).*
 
 ### How do I run the scrape command?
 
@@ -41,11 +45,11 @@ command with the `--help` option appended
 
 Just like running the command, there are several `make` commands that have been provided for convenience.
 
-**To run all tests**: `make run-tests`
+**To run all tests**: `make run-tests` (or `docker exec -it scrape_app bash -c "./vendor/bin/simple-phpunit"`)
 
-**To run only Unit tests**: `make run-unit-tests`
+**To run only Unit tests**: `make run-unit-tests` (or `docker exec -it scrape_app bash -c "./vendor/bin/simple-phpunit --testsuite=Unit"`)
 
-**To run only Functional tests**: `make run-functional-tests`
+**To run only Functional tests**: `make run-functional-tests` (or `docker exec -it scrape_app bash -c "./vendor/bin/simple-phpunit --testsuite=Functional"`)
 
 Ultimately, the underlying command that the `make` commands initially run for tests is
 `docker exec -it scrape_app bash -c "./vendor/bin/simple-phpunit"`, so you can use this as a base command which you
