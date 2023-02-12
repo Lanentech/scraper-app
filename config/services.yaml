@@ -1,0 +1,62 @@
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices.html#use-parameters-for-application-configuration
+parameters:
+
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  App\:
+    resource: '../src/'
+    exclude:
+      - '../src/DependencyInjection/'
+      - '../src/Entity/'
+      - '../src/Kernel.php'
+
+  _instanceof:
+    App\WebScraper\Adjuster\AdjusterInterface:
+      tags: ['app.web_scraper.adjuster']
+    App\WebScraper\Formatter\FormatterInterface:
+      tags: ['app.web_scraper.formatter']
+    App\WebScraper\Sorter\SorterInterface:
+      tags: ['app.web_scraper.sorter']
+    App\WebScraper\Source\SourceInterface:
+      tags: ['app.web_scraper.source']
+
+  Goutte\Client: ~
+
+  App\WebScraper\Client\GoutteClient:
+    arguments:
+      $client: '@Goutte\Client'
+
+  App\WebScraper\Adjuster\AdjusterService:
+    arguments:
+      $adjusters: !tagged_iterator app.web_scraper.adjuster
+
+  App\WebScraper\Adjuster\AdjusterServiceInterface: '@App\WebScraper\Adjuster\AdjusterService'
+
+  App\WebScraper\Context\ContextBuilder: ~
+  App\WebScraper\Context\ContextBuilderInterface: '@App\WebScraper\Context\ContextBuilder'
+
+  App\WebScraper\Formatter\FormatterService:
+    arguments:
+      $formatters: !tagged_iterator app.web_scraper.formatter
+
+  App\WebScraper\Formatter\FormatterServiceInterface: '@App\WebScraper\Formatter\FormatterService'
+
+  App\WebScraper\Sorter\SortService:
+    arguments:
+      $sorters: !tagged_iterator app.web_scraper.sorter
+
+  App\WebScraper\Sorter\SortServiceInterface: '@App\WebScraper\Sorter\SortService'
+
+  App\WebScraper\Source\SourceService:
+    arguments:
+      $sources: !tagged_iterator app.web_scraper.source
+
+  App\WebScraper\Source\SourceServiceInterface: '@App\WebScraper\Source\SourceService'
+
+  App\WebScraper\ScraperService:
+    arguments:
+      $client: '@App\WebScraper\Client\GoutteClient'

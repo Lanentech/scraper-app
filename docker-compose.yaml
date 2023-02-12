@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  app:
+    tty: true
+    container_name: scrape_app
+    build:
+      context: .
+# Enable to help with local development
+#    volumes:
+#      - .:/var/www/scraper

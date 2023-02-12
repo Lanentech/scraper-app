@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://wltest.dns-systems.net/ -->
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <script>
+            var BASE_URL = 'https://wltest.dns-systems.net/';
+            var require = {
+            "baseUrl": "https://wltest.dns-systems.net/"
+            };
+        </script>
+
+        <meta name="title" content="Demo Home Page English"/>
+        <meta name="robots" content="INDEX,FOLLOW"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+        <meta name="mobile-web-app-capable" content="yes"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <title>Demo Home Page English</title>
+        <link rel="stylesheet" type="text/css" media="all" href="./Demo-Home-Page-English_files/calendar.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="./Demo-Home-Page-English_files/cc_style.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="./Demo-Home-Page-English_files/styles-m.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="./Demo-Home-Page-English_files/stripe_payments.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="./Demo-Home-Page-English_files/bootstrap.css"/>
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)"
+              href="./Demo-Home-Page-English_files/styles-l.css"/>
+        <link rel="stylesheet" type="text/css" media="print" href="./Demo-Home-Page-English_files/print.css"/>
+        <script type="text/javascript" src="./Demo-Home-Page-English_files/require.js"></script>
+        <script type="text/javascript" src="./Demo-Home-Page-English_files/mixins.js"></script>
+        <script type="text/javascript" src="./Demo-Home-Page-English_files/requirejs-config.js"></script>
+        <script type="text/javascript" src="./Demo-Home-Page-English_files/polyfill.js"></script>
+        <script type="text/javascript" src="./Demo-Home-Page-English_files/stripe_payments.js"></script>
+        <link rel="stylesheet" type="text/css" href="./Demo-Home-Page-English_files/css"/>
+        <link rel="icon" type="image/x-icon" href="./Demo-Home-Page-English_files/favicon.png"/>
+        <link rel="shortcut icon" type="image/x-icon" href="./Demo-Home-Page-English_files/favicon.png"/>
+        <style type="text/css">
+            .header.content {
+            background:
+            url('https://res.cloudinary.com/wlcc/image/upload/v1583751762/demo/generic-header_m0rufn.jpg');
+            background-repeat: no-repeat;
+            margin: 0 auto;
+            .panel.wrapper {
+            border: none;
+            }
+            }
+            body.cms-demo-home-page-english.cms-index-index.page-layout-1column .header.content {
+            background: none;
+            max-height: none;
+            }
+        </style>
+        <!--2cdbdd7cc66042372689f1e557aa5734-->
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery"
+                src="./Demo-Home-Page-English_files/jquery.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery.mobile.custom"
+                src="./Demo-Home-Page-English_files/jquery.mobile.custom.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/common"
+                src="./Demo-Home-Page-English_files/common.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/dataPost" src="./Demo-Home-Page-English_files/dataPost.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/bootstrap" src="./Demo-Home-Page-English_files/bootstrap.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/translate-inline"
+                src="./Demo-Home-Page-English_files/translate-inline.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Translation/js/mage-translation-dictionary"
+                src="./Demo-Home-Page-English_files/mage-translation-dictionary.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Theme/js/responsive"
+                src="./Demo-Home-Page-English_files/responsive.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Theme/js/theme" src="./Demo-Home-Page-English_files/theme.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady"
+                src="./Demo-Home-Page-English_files/domReady.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/template" src="./Demo-Home-Page-English_files/template.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/modal/confirm"
+                src="./Demo-Home-Page-English_files/confirm.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/widget" src="./Demo-Home-Page-English_files/widget.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/apply/main" src="./Demo-Home-Page-English_files/main.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bootstrap"
+                src="./Demo-Home-Page-English_files/bootstrap(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/translate" src="./Demo-Home-Page-English_files/translate.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text"
+                src="./Demo-Home-Page-English_files/text.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/tabs"
+                src="./Demo-Home-Page-English_files/tabs.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/smart-keyboard-handler"
+                src="./Demo-Home-Page-English_files/smart-keyboard-handler.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/mage"
+                src="./Demo-Home-Page-English_files/mage.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/ie-class-fixer"
+                src="./Demo-Home-Page-English_files/ie-class-fixer.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="js/homepage-desk" src="./Demo-Home-Page-English_files/homepage-desk.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery-migrate"
+                src="./Demo-Home-Page-English_files/jquery-migrate.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/patches/jquery" src="./Demo-Home-Page-English_files/jquery(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/dialog" src="./Demo-Home-Page-English_files/dialog.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/patches/jquery-ui"
+                src="./Demo-Home-Page-English_files/jquery-ui.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchMedia"
+                src="./Demo-Home-Page-English_files/matchMedia.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/core" src="./Demo-Home-Page-English_files/core.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/collapsible" src="./Demo-Home-Page-English_files/collapsible.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore"
+                src="./Demo-Home-Page-English_files/underscore.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/modal/modal" src="./Demo-Home-Page-English_files/modal.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="knockoutjs/knockout" src="./Demo-Home-Page-English_files/knockout.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="knockoutjs/knockout-es5"
+                src="./Demo-Home-Page-English_files/knockout-es5.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/button" src="./Demo-Home-Page-English_files/button.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/draggable"
+                src="./Demo-Home-Page-English_files/draggable.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/position"
+                src="./Demo-Home-Page-English_files/position.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/resizable"
+                src="./Demo-Home-Page-English_files/resizable.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/apply/scripts" src="./Demo-Home-Page-English_files/scripts.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/template/engine"
+                src="./Demo-Home-Page-English_files/engine.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bootstrap"
+                src="./Demo-Home-Page-English_files/bootstrap(2).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/extender/observable_array"
+                src="./Demo-Home-Page-English_files/observable_array.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/extender/bound-nodes"
+                src="./Demo-Home-Page-English_files/bound-nodes.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/key-codes"
+                src="./Demo-Home-Page-English_files/key-codes.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery-storageapi"
+                src="./Demo-Home-Page-English_files/jquery.storageapi.extended.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/mouse" src="./Demo-Home-Page-English_files/mouse.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="knockoutjs/knockout-repeat"
+                src="./Demo-Home-Page-English_files/knockout-repeat.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="knockoutjs/knockout-fast-foreach"
+                src="./Demo-Home-Page-English_files/knockout-fast-foreach.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/wrapper" src="./Demo-Home-Page-English_files/wrapper.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/events"
+                src="./Demo-Home-Page-English_files/events.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="es6-collections" src="./Demo-Home-Page-English_files/es6-collections.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery.cookie"
+                src="./Demo-Home-Page-English_files/jquery.cookie.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery.storageapi.min"
+                src="./Demo-Home-Page-English_files/jquery.storageapi.min.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/template/observable_source"
+                src="./Demo-Home-Page-English_files/observable_source.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/template/renderer"
+                src="./Demo-Home-Page-English_files/renderer.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/console-logger"
+                src="./Demo-Home-Page-English_files/console-logger.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/resizable"
+                src="./Demo-Home-Page-English_files/resizable(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/i18n"
+                src="./Demo-Home-Page-English_files/i18n.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/scope"
+                src="./Demo-Home-Page-English_files/scope.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/range"
+                src="./Demo-Home-Page-English_files/range.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/mage-init"
+                src="./Demo-Home-Page-English_files/mage-init.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/keyboard"
+                src="./Demo-Home-Page-English_files/keyboard.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/optgroup"
+                src="./Demo-Home-Page-English_files/optgroup.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/after-render"
+                src="./Demo-Home-Page-English_files/after-render.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/autoselect"
+                src="./Demo-Home-Page-English_files/autoselect.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/datepicker"
+                src="./Demo-Home-Page-English_files/datepicker.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/outer_click"
+                src="./Demo-Home-Page-English_files/outer_click.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/fadeVisible"
+                src="./Demo-Home-Page-English_files/fadeVisible.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/collapsible"
+                src="./Demo-Home-Page-English_files/collapsible(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/staticChecked"
+                src="./Demo-Home-Page-English_files/staticChecked.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/simple-checked"
+                src="./Demo-Home-Page-English_files/simple-checked.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bind-html"
+                src="./Demo-Home-Page-English_files/bind-html.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/tooltip"
+                src="./Demo-Home-Page-English_files/tooltip.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/bindings/color-picker"
+                src="./Demo-Home-Page-English_files/color-picker.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/class"
+                src="./Demo-Home-Page-English_files/class.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/storage/local"
+                src="./Demo-Home-Page-English_files/local.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/view/utils/async"
+                src="./Demo-Home-Page-English_files/async.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/registry/registry"
+                src="./Demo-Home-Page-English_files/registry.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/slider" src="./Demo-Home-Page-English_files/slider.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/main" src="./Demo-Home-Page-English_files/main(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/knockout/template/loader"
+                src="./Demo-Home-Page-English_files/loader.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/calendar" src="./Demo-Home-Page-English_files/calendar.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="moment"
+                src="./Demo-Home-Page-English_files/moment.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/logger"
+                src="./Demo-Home-Page-English_files/logger.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/entry-factory"
+                src="./Demo-Home-Page-English_files/entry-factory.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/console-output-handler"
+                src="./Demo-Home-Page-English_files/console-output-handler.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/formatter"
+                src="./Demo-Home-Page-English_files/formatter.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/message-pool"
+                src="./Demo-Home-Page-English_files/message-pool.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/levels-pool"
+                src="./Demo-Home-Page-English_files/levels-pool.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/logger-utils"
+                src="./Demo-Home-Page-English_files/logger-utils.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/datepicker"
+                src="./Demo-Home-Page-English_files/datepicker(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/timepicker"
+                src="./Demo-Home-Page-English_files/timepicker.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/template" src="./Demo-Home-Page-English_files/template(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="spectrum"
+                src="./Demo-Home-Page-English_files/spectrum.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="tinycolor"
+                src="./Demo-Home-Page-English_files/tinycolor.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/arrays" src="./Demo-Home-Page-English_files/arrays.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/compare" src="./Demo-Home-Page-English_files/compare.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/misc" src="./Demo-Home-Page-English_files/misc.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/objects" src="./Demo-Home-Page-English_files/objects.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/utils/strings" src="./Demo-Home-Page-English_files/strings.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/logger/entry"
+                src="./Demo-Home-Page-English_files/entry.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/view/utils/dom-observer"
+                src="./Demo-Home-Page-English_files/dom-observer.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/view/utils/bindings"
+                src="./Demo-Home-Page-English_files/bindings.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="FormData"
+                src="./Demo-Home-Page-English_files/FormData.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="MutationObserver" src="./Demo-Home-Page-English_files/MutationObserver.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/loader"
+                src="./Demo-Home-Page-English_files/loader(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_PageCache/js/page-cache"
+                src="./Demo-Home-Page-English_files/page-cache.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/core/app" src="./Demo-Home-Page-English_files/app.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/cookies" src="./Demo-Home-Page-English_files/cookies.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/block-loader"
+                src="./Demo-Home-Page-English_files/block-loader.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/section-config"
+                src="./Demo-Home-Page-English_files/section-config.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/invalidation-processor"
+                src="./Demo-Home-Page-English_files/invalidation-processor.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/customer-data"
+                src="./Demo-Home-Page-English_files/customer-data.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Persistent/js/view/customer-data-mixin"
+                src="./Demo-Home-Page-English_files/customer-data-mixin.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/element/element"
+                src="./Demo-Home-Page-English_files/element.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/core/renderer/types"
+                src="./Demo-Home-Page-English_files/types.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/core/renderer/layout"
+                src="./Demo-Home-Page-English_files/layout.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/url"
+                src="./Demo-Home-Page-English_files/url.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/storage" src="./Demo-Home-Page-English_files/storage.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/element/links"
+                src="./Demo-Home-Page-English_files/links.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/view/authentication-popup"
+                src="./Demo-Home-Page-English_files/authentication-popup.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Captcha/js/view/checkout/loginCaptcha"
+                src="./Demo-Home-Page-English_files/loginCaptcha.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Theme/js/view/messages"
+                src="./Demo-Home-Page-English_files/messages.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/storage-manager"
+                src="./Demo-Home-Page-English_files/storage-manager.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/form/form" src="./Demo-Home-Page-English_files/form.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/action/login"
+                src="./Demo-Home-Page-English_files/login.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/model/authentication-popup"
+                src="./Demo-Home-Page-English_files/authentication-popup(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/modal/alert" src="./Demo-Home-Page-English_files/alert.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/validation" src="./Demo-Home-Page-English_files/validation.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Captcha/js/view/checkout/defaultCaptcha"
+                src="./Demo-Home-Page-English_files/defaultCaptcha.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Captcha/js/model/captchaList"
+                src="./Demo-Home-Page-English_files/captchaList.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/core/collection"
+                src="./Demo-Home-Page-English_files/collection.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Security/js/escaper"
+                src="./Demo-Home-Page-English_files/escaper.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/product/storage/storage-service"
+                src="./Demo-Home-Page-English_files/storage-service.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Customer/js/invalidation-rules/website-rule"
+                src="./Demo-Home-Page-English_files/website-rule.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/view/messages"
+                src="./Demo-Home-Page-English_files/messages(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="MSP_ReCaptcha/js/ui-messages-mixin"
+                src="./Demo-Home-Page-English_files/ui-messages-mixin.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="StripeIntegration_Payments/js/messages-mixin"
+                src="./Demo-Home-Page-English_files/messages-mixin.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/lib/spinner" src="./Demo-Home-Page-English_files/spinner.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="mage/requirejs/resolver" src="./Demo-Home-Page-English_files/resolver.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/model/messageList"
+                src="./Demo-Home-Page-English_files/messageList.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/validate" src="./Demo-Home-Page-English_files/jquery.validate.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Captcha/js/model/captcha"
+                src="./Demo-Home-Page-English_files/captcha.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/form/adapter"
+                src="./Demo-Home-Page-English_files/adapter.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/product/storage/ids-storage"
+                src="./Demo-Home-Page-English_files/ids-storage.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/product/storage/data-storage"
+                src="./Demo-Home-Page-English_files/data-storage.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/product/storage/ids-storage-compare"
+                src="./Demo-Home-Page-English_files/ids-storage-compare.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/effect-blind"
+                src="./Demo-Home-Page-English_files/effect-blind.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="MSP_ReCaptcha/js/registry"
+                src="./Demo-Home-Page-English_files/registry(1).js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Captcha/js/action/refresh"
+                src="./Demo-Home-Page-English_files/refresh.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/form/adapter/buttons"
+                src="./Demo-Home-Page-English_files/buttons.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery/jquery.metadata"
+                src="./Demo-Home-Page-English_files/jquery.metadata.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Catalog/js/product/query-builder"
+                src="./Demo-Home-Page-English_files/query-builder.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="jquery-ui-modules/effect" src="./Demo-Home-Page-English_files/effect.js"></script>
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
+                data-requiremodule="Magento_Ui/js/model/messages"
+                src="./Demo-Home-Page-English_files/messages(2).js"></script>
+    </head>
+
+    <body data-container="body" class="cms-demo-home-page-english cms-index-index page-layout-1column">
+
+
+        <noscript>
+            <div class="message global noscript">
+                <div class="content">
+                    <p>
+                        <strong>JavaScript seems to be disabled in your browser.</strong>
+                        <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </noscript>
+
+        <div class="message global demo">
+            <div class="content">
+                <p>This is a demo store. No orders will be fulfilled.</p>
+            </div>
+
+        </div>
+
+
+        <script>
+            window.cookiesConfig = window.cookiesConfig || {};
+            window.cookiesConfig.secure = true;
+        </script>
+        <script>
+            require.config({
+            map: {
+            '*': {
+            wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'
+            }
+            }
+            });
+        </script>
+
+        <div class="page-wrapper">
+            <header class="page-header">
+                <div class="sections nav-sections">
+                    <div class="section-items nav-sections-items" role="tablist">
+                        <div class="section-item-title nav-sections-item-title active" data-role="collapsible"
+                             role="tab" data-collapsible="true" aria-controls="store.menu" aria-selected="false"
+                             aria-expanded="true" tabindex="0">
+                            <a class="nav-sections-item-switch" data-toggle="switch"
+                               href="https://wltest.dns-systems.net/#store.menu">
+                                Menu
+                            </a>
+                        </div>
+
+                        <div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content"
+                             role="tabpanel" aria-hidden="false">
+
+                            <div class="cc-mnu__mobile">
+                                <svg title="icon-arrow-down" class="cc-mnu__mobile-icon">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink"
+                                         xlink:href="https://wltest.dns-systems.net/pub/static/version1635239994/frontend/acme/acme_default/en_GB/images/icon-sprite.svg#icon-mobile-menu"/>
+
+                                </svg>
+
+                            </div>
+
+
+                            <nav class="cc-mnu">
+                                <ul class="cc-mnu__list">
+                                    <li class="cc-mnu__item level0 level-top  menu-item-demo ui-menu-item">
+                                        <a href="https://wltest.dns-systems.net/" data-menu="menu-31"
+                                           class="cc-mnu__link">
+                                            Activate
+                                        </a>
+                                    </li>
+
+                                    <li class="cc-mnu__item level0 level-top  menu-item-demo ui-menu-item">
+                                        <a href="https://wltest.dns-systems.net/" data-menu="menu-32"
+                                           class="cc-mnu__link" target="__blank" rel="noopener">
+                                            Terms
+                                        </a>
+                                    </li>
+
+                                    <li class="cc-mnu__item level0 level-top  menu-item-demo ui-menu-item">
+                                        <a href="https://wltest.dns-systems.net/" data-menu="menu-33"
+                                           class="cc-mnu__link" target="__blank" rel="noopener">
+                                            Privacy
+                                        </a>
+                                    </li>
+
+                                    <li class="cc-mnu__item level0 level-top  menu-item-demo ui-menu-item">
+                                        <a href="https://wltest.dns-systems.net/" data-menu="menu-34"
+                                           class="cc-mnu__link">
+                                            My Account
+                                        </a>
+                                    </li>
+
+                                </ul>
+
+                                <div class="cc-mnu__mobile-bg"/>
+                            </nav>
+
+                        </div>
+
+                        <div class="section-item-title nav-sections-item-title" data-role="collapsible" role="tab"
+                             data-collapsible="true" aria-controls="store.links" aria-selected="false"
+                             aria-expanded="false" tabindex="0">
+                            <a class="nav-sections-item-switch" data-toggle="switch"
+                               href="https://wltest.dns-systems.net/#">
+                                Account
+                            </a>
+                        </div>
+
+                        <div class="section-item-content nav-sections-item-content" id="store.links" data-role="content"
+                             role="tabpanel" aria-hidden="true" style="display: none;">
+                            <!-- Account links -->                </div>
+                    </div>
+
+                </div>
+
+                <div class="panel wrapper">
+                    <div class="panel header">
+                        <a class="action skip contentarea" href="https://wltest.dns-systems.net/#">
+                            <span>
+                                Skip to Content
+                            </span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="header content">
+                    <strong class="logo">
+                        <img src="./Demo-Home-Page-English_files/acme-logo.png" alt="Demo Store" width="191"
+                             height="98"/>
+                    </strong>
+
+                    <div class="widget block block-static-block">
+                        <div id="home-top-banner">
+                            <img src="./Demo-Home-Page-English_files/demo-home-page-top-banner.jpg" width="1920"
+                                 height="650"/>
+                            <br/>
+                            <div class="row content bg-white">
+                                <div class="title">
+                                    <h1>
+                                        <span style="color: #fff;">Bring your product to life</span>
+                                        <br/>
+                                        <span style="color: #fff;">with the best connection on the market.</span>
+                                    </h1>
+
+                                </div>
+
+                                <div class="subtitle">
+                                    <span style="color: #fff;">Activate your unit and start benefiting from the ultimate
+                                        in door security.
+                                    </span>
+                                </div>
+
+                                <a class="btn btn-primary go-to-activate" href="https://wltest.dns-systems.net/">
+                                    Activate My Product
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </header>
+            <main id="maincontent" class="page-main">
+                <a id="contentarea" tabindex="-1"/>
+                <div class="page messages">
+                    <div data-placeholder="messages"/>
+                    <div data-bind="scope: 'messages'">
+                        <!-- ko if: cookieMessages && cookieMessages.length > 0 --><!-- /ko -->
+
+                        <!-- ko if: messages().messages && messages().messages.length > 0 --><!-- /ko -->
+                    </div>
+
+                </div>
+                <div class="columns">
+                    <div class="column main">
+                        <input name="form_key" type="hidden" value="HAN7EFAGBBjhnPyb"/>
+                        <div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+                            <script>
+                                window.authenticationPopup =
+                                {"autocomplete":"off","customerRegisterUrl":"https:\/\/demo.acme.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/demo.acme.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/demo.acme.com\/"};
+                            </script>
+                            <!-- ko template: getTemplate() -->
+
+
+                            <!-- /ko -->
+
+                        </div>
+
+
+                        <div class="sections_wrapper">
+                            <div class="widget block block-static-block">
+                                <section id="subscriptions" class="content_section grid">
+                                    <div class="row" style="margin-left:0px; margin-right:0px">
+                                        <div class="top-line-decoration"/>
+
+                                        <h2>Monthly Subscription Packages</h2>
+                                        <div class="colored-line"/>
+                                        <div class="sub-heading">
+                                            Choose from the packages below and get your product connected;
+                                        </div>
+                                        <div class="pricing-table">
+                                            <div class="row-subscriptions" style="margin-bottom:40px;">
+                                                <!-- PACKAGE THREE -->
+                                                <div class="col-cs-4">
+                                                    <div class="package featured-right"
+                                                         style="margin-top:0px; margin-left:0px; margin-bottom:0px">
+                                                        <div class="header dark-bg">
+                                                            <h3>Optimum: 2 GB Data - 12 Months</h3>
+                                                        </div>
+
+                                                        <div class="package-features">
+                                                            <ul>
+                                                                <li>
+                                                                    <div class="package-name">The optimum subscription
+                                                                        providing you with enough service time to
+                                                                        support the above-average user to enable your
+                                                                        device to be up and running with inclusive Data
+                                                                        and SMS services
+                                                                    </div>
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-description">2GB data per month
+                                                                        <br/>including 40 SMS<br/>(5p / minute and 4p /
+                                                                        SMS thereafter)
+                                                                    </div>
+
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-price">
+                                                                        <span class="price-big">£15.99</span>
+                                                                        <br/>(inc. VAT)<br/>Per Month
+                                                                    </div>
+
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-data">12 Months - Data &amp; SMS
+                                                                        Service Only
+                                                                    </div>
+                                                                </li>
+
+                                                            </ul>
+
+                                                            <div class="bottom-row">
+                                                                <a class="btn btn-primary main-action-button"
+                                                                   href="https://wltest.dns-systems.net/#"
+                                                                   role="button">Choose
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div> <!-- /END PACKAGE -->
+
+
+                                            </div> <!-- /END ROW -->
+                                        </div> <!-- /END ALL PACKAGE -->
+
+                                    </div> <!-- /END CONTAINER -->
+
+                                </section>
+
+                            </div>
+
+
+                            <div class="widget block block-static-block">
+                                <section id="subscriptions" class="content_section grid">
+                                    <div class="row" style="margin-left:0px; margin-right:0px">
+                                        <div class="top-line-decoration"/>
+
+                                        <h2>Annual Subscription Packages</h2>
+                                        <div class="colored-line"/>
+                                        <div class="sub-heading">
+                                            Choose from the packages below and get your product connected, each with per
+                                            second billing.
+                                        </div>
+                                        <div class="pricing-table">
+                                            <div class="row-subscriptions" style="margin-bottom:40px;">
+                                                <div class="col-xs-4">
+                                                    <div class="package featured-right"
+                                                         style="margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:25px">
+
+                                                        <div class="header dark-bg">
+                                                            <h3>Basic: 6GB Data - 1 Year</h3>
+                                                        </div>
+
+                                                        <div class="package-features">
+                                                            <ul>
+                                                                <li>
+                                                                    <div class="package-name">The basic starter
+                                                                        subscription providing you with all you need to
+                                                                        get you up and running with Data and SMS
+                                                                        services to allow access to your device.
+                                                                    </div>
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-description">Up to 6GB of data
+                                                                        per year<br/>including 240 SMS<br/>(5p / MB data
+                                                                        and 4p / SMS thereafter)
+                                                                    </div>
+
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-price">
+                                                                        <span class="price-big">£66.00</span>
+                                                                        <br/>(inc. VAT)<br/>Per Year
+                                                                        <p style="color: red">Save £5.86 on the monthly
+                                                                            price
+                                                                        </p>
+                                                                    </div>
+
+                                                                </li>
+
+                                                                <li>
+                                                                    <div class="package-data">Annual - Data &amp; SMS
+                                                                        Service Only
+                                                                    </div>
+                                                                </li>
+
+                                                            </ul>
+
+                                                            <div class="bottom-row">
+                                                                <a class="btn btn-primary main-action-button"
+                                                                   href="https://wltest.dns-systems.net/#"
+                                                                   role="button">Choose
+                                                                </a>
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div> <!-- /END PACKAGE -->
+
+                                            </div> <!-- /END ROW -->
+                                        </div> <!-- /END ALL PACKAGE -->
+
+                                    </div> <!-- /END CONTAINER -->
+
+                                </section>
+
+                            </div>
+
+
+                            <div class="widget block block-static-block">
+                                <section id="industry-awards" class="content_section grid">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="top-line-decoration"/>
+                                            <h2>What Our Customers Say</h2>
+                                        </div>
+
+                                        <div class="content row">
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/img5634566166a156.35493439.jpg"
+                                                             width="80" height="80"/>
+                                                    </span>
+                                                    <span class="client_desc">"This technology has brought many benefits
+                                                        to our customers."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/JE_New_Logo.png"
+                                                             width="80" height="80"/>
+                                                    </span>
+                                                    <span class="client_desc">"...we can guarantee that the order will
+                                                        be received and fulfilled much more quickly than before."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/verifone_logo_detail.png"
+                                                             width="100" height="100"/>
+                                                    </span>
+                                                    <span class="client_desc">"We are pleased with the SIM provisioning
+                                                        system where we can control the provisioning of SIMs at point of
+                                                        installation."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="content row">
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/siemens-square-01.png"
+                                                             width="80" height="80"/>
+                                                    </span>
+                                                    <span class="client_desc">"The response to our connectivity
+                                                        proposition has been nothing but positive..."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/uJp-gybB_400x400.png"
+                                                             width="80" height="80"/>
+                                                    </span>
+                                                    <span class="client_desc">"This partnership is giving Invivodata
+                                                        [and ERT] a uniquely competitive edge."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                <div class="award-wrapper">
+                                                    <span class="client_img">
+                                                        <img src="./Demo-Home-Page-English_files/switchee_logo.png"
+                                                             width="100" height="100"/>
+                                                    </span>
+                                                    <span class="client_desc">"....a ‘one SIM fits all’ that reduces our
+                                                        commissioning time and provides stability in our connectivity."
+                                                    </span>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </section>
+                            </div>
+
+
+                            <div class="widget block block-static-block">
+                                <section id="support" class="content_section grid">
+                                    <div class="row">
+                                        <div class="top-line-decoration"/>
+
+                                        <h2>Advanced Technology - Simple Solutions</h2>
+                                        <div class="colored-line"/>
+                                        <div class="container-fluid">
+                                            <div class="row first-block">
+                                                <div class="col-md-7">
+                                                    <div class="description">
+                                                        <p>Build your own activations portal and drive rewarding
+                                                            on-boarding programmes that can offer single step,
+                                                            payment-less activation through to a full subscription
+                                                            sign-up experience.
+                                                        </p>
+                                                        <p>Benefit from competitive tariffs and flexible payment options
+                                                            designed to work with Internet of Things devices and
+                                                            applications. For over 15 Years, acme logic has provided
+                                                            world class enterprises and technology companies with secure
+                                                            connectivity solutions. Our high service levels demonstrate
+                                                            our investment in commitment to your service and customer
+                                                            experience.
+                                                        </p>
+                                                        <p> </p>
+                                                    </div>
+
+                                                    <div class="bottom-row">
+                                                        <a class="btn btn-primary main-action-button"
+                                                           href="http://www.acme.com/#" role="button">Learn More
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+
+                                                <div class="col-md-5">
+                                                    <div class="product-image">
+                                                        <img src="./Demo-Home-Page-English_files/Screen_Shot_Examples.jpeg"
+                                                             alt=""/>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="row second-block">
+                                                <div class="col-md-5">
+                                                    <div class="product-image">
+                                                        <img src="./Demo-Home-Page-English_files/Workflow_Screens.jpeg"
+                                                             alt=""/>
+                                                    </div>
+
+                                                </div>
+
+                                                <div class="col-md-7">
+                                                    <div class="description">
+                                                        <p>Offer specialist IoT subscription packages that include your
+                                                            own paid-for or complimentary services as part of a single
+                                                            transaction.
+                                                        </p>
+                                                        <p>Benefit from acme Logic's access to over 700 Mobile operators
+                                                            worldwide with high, medium and low bandwidth options from a
+                                                            single SIM.
+                                                        </p>
+                                                        <p> </p>
+                                                        <div class="col-md-4">
+                                                            <ul>
+                                                                <li>3G &amp; 4G</li>
+                                                                <li>Any Country</li>
+                                                                <li>Usage Controls</li>
+                                                            </ul>
+
+                                                        </div>
+
+                                                        <div class="col-md-4">
+                                                            <ul>
+                                                                <li>Pay-as-you-go</li>
+                                                                <li>Pay Monthly</li>
+                                                                <li>Pre-paid</li>
+                                                            </ul>
+
+                                                        </div>
+
+                                                        <div class="col-md-4">
+                                                            <ul>
+                                                                <li>Credit Card</li>
+                                                                <li>Direct Debits</li>
+                                                            </ul>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+
+                                                <div class="bottom-row">
+                                                    <a class="btn btn-primary main-action-button"
+                                                       href="http://www.acme-no-exist.com/#" role="button">Learn
+                                                        More
+                                                    </a>
+                                                </div>
+
+                                            </div> <!-- /END ROW -->
+                                        </div>
+
+                                    </div> <!-- /END CONTAINER -->
+                                </section>
+                            </div>
+
+
+                            <div class="widget block block-static-block">
+                                <section id="footer" class="content_section grid">
+                                    <div class="row">
+                                        <div class="top-line-decoration"/>
+
+                                        <h2>Information</h2>
+                                        <div class="colored-line"/>
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-md-3">
+                                                    <div class="widget block block-static-block">
+                                                        <div class="footer-col">
+                                                            <h4>About us</h4>
+                                                            <div class="footer-col-content footer-about">
+                                                                We are one of the leading providers of M2M and IoT
+                                                                connectivity in Europe.
+                                                                <br/>
+                                                                <br/>As the largest independent service provider in the
+                                                                UK, we have network relationships with over 700
+                                                                operators globally.
+                                                                <br/>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                <div class="col-md-3">
+                                                    <div class="widget block block-static-block">
+                                                        <div class="footer-col">
+                                                            <h4>Who Are We?</h4>
+                                                            <div class="footer-col-content footer-contacts">
+                                                                <span>Acme by main development</span>
+                                                                \t
+                                                                <address>PO Box 4545,<br/>Horizon,<br/>Honey Land,
+                                                                    <br/>
+                                                                    Jerusalem,<br/>SL8 188H,<br/>United Kingdom
+                                                                </address>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                <div class="col-md-3">
+                                                    <div class="widget block block-static-block">
+                                                        <div class="footer-col">
+                                                            <h4>Contact Us</h4>
+                                                            <div class="footer-col-content footer-contacts">
+                                                                \t
+                                                                <span class="foooter-contacts-tel">
+                                                                    <a href="tel:+234234">0330 056 234234</a>
+                                                                    <br/>
+                                                                </span>
+
+                                                                \t
+                                                                <span class="foooter-contacts-email">
+                                                                    <a href="mailto:test@acme.com">test@acme.com</a>
+                                                                </span>
+
+                                                            </div>
+
+                                                            <h4>Further Information</h4>
+                                                            <a href="https://wltest.dns-systems.net/terms">Terms &amp;
+                                                                Conditions
+                                                            </a>
+                                                            <br/>
+                                                            <a href="https://wltest.dns-systems.net/privacy">How we
+                                                                handle your information
+                                                            </a>
+                                                        </div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                <div class="col-md-3">
+                                                    <div class="widget block block-static-block">
+                                                        <div class="footer-col">
+                                                            <h4>Further Information</h4>
+                                                            <div class="footer-col-content footer-about">
+                                                                <a href="https://www.google.co.uk/search?q=acme+review&amp;oq=acme+review&amp;aqs=chrome..69i57j0l3j69i64l2.7367j1j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x487689dfa52ebfe3:0xbfd78fec651e8398,1,,,.">
+                                                                    <img src="./Demo-Home-Page-English_files/Reviews.jpeg"
+                                                                         alt=""/>
+                                                                    <br/>Reviews<br/>See what our customers say
+                                                                </a>
+
+                                                            </div>
+
+                                                        </div>
+
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div> <!-- /END CONTAINER -->
+                                        <br/>
+                                        <br/>
+                                    </div>
+                                </section>
+                            </div>
+
+
+                        </div>
+                        <script>
+                            require(['js/homepage-desk']);
+                        </script>
+                    </div>
+                </div>
+            </main>
+            <footer class="page-footer">
+                <div class="footer content">
+                    <small class="copyright">
+                        <span>Copyright © acme 2022. All Rights Reserved.</span>
+                    </small>
+
+                </div>
+            </footer>
+
+            Copyright © <script>document.write(new Date().getFullYear())</script>2022 acme. All rights reserved.
+        </div>
+
+
+        <div class="modals-wrapper"><!--
+      /**
+       * Copyright &#169; Magento, Inc. All rights reserved.
+       * See COPYING.txt for license details.
+       */
+      -->
+
+            <aside role="dialog"
+                   class="modal-popup popup-authentication&#10;               modal-slide&#10;               _inner-scroll"
+                   aria-describedby="modal-content-8" data-role="modal" data-type="popup" tabindex="0">
+                <div data-role="focusable-start" tabindex="0"/>
+                <div class="modal-inner-wrap" data-role="focusable-scope">
+                    <header class="modal-header">
+
+                        <button class="action-close" data-role="closeBtn" type="button">
+                            <span>Close</span>
+                        </button>
+
+                    </header>
+
+                    <div id="modal-content-8" class="modal-content" data-role="content">
+                        <div class="block-authentication"
+                             data-bind="afterRender: setModalElement, blockLoader: isLoading" style="">
+                            <div class="block block-new-customer" data-bind="attr: {'data-label': $t('or')}"
+                                 data-label="or">
+                                <div class="block-title">
+                                    <strong id="block-new-customer-heading" role="heading" aria-level="2"
+                                            data-bind="i18n: 'Checkout as a new customer'">Checkout as a new
+                                        customer
+                                    </strong>
+                                </div>
+
+                                <div class="block-content" aria-labelledby="block-new-customer-heading">
+                                    <p data-bind="i18n: 'Creating an account has many benefits:'">Creating an account
+                                        has many benefits:
+                                    </p>
+                                    <ul>
+                                        <li data-bind="i18n: 'See order and shipping status'">See order and shipping
+                                            status
+                                        </li>
+                                        <li data-bind="i18n: 'Track order history'">Track order history</li>
+                                        <li data-bind="i18n: 'Check out faster'">Check out faster</li>
+                                    </ul>
+
+                                    <div class="actions-toolbar">
+                                        <div class="primary">
+                                            <a class="action action-register primary"
+                                               data-bind="attr: {href: registerUrl}" href="#">
+                                                <span data-bind="i18n: 'Create an Account'">Create an Account</span>
+                                            </a>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="block block-customer-login" data-bind="attr: {'data-label': $t('or')}"
+                                 data-label="or">
+                                <div class="block-title">
+                                    <strong id="block-customer-login-heading" role="heading" aria-level="2"
+                                            data-bind="i18n: 'Checkout using your account'">Checkout using your
+                                        account
+                                    </strong>
+                                </div>
+
+                                <!-- ko foreach: getRegion('messages') -->
+                                <!-- ko template: getTemplate() -->
+                                <div data-role="checkout-messages" class="messages"
+                                     data-bind="visible: isVisible(), click: removeAll">
+                                    <!-- ko foreach: messageContainer.getErrorMessages() --><!--/ko-->
+                                    <!-- ko foreach: messageContainer.getSuccessMessages() --><!--/ko-->
+                                </div>
+                                <!-- /ko -->
+                                <!--/ko-->
+                                <!-- ko foreach: getRegion('before') --><!-- /ko -->
+                                <div class="block-content" aria-labelledby="block-customer-login-heading">
+                                    <form class="form form-login" method="post" data-bind="event: {submit: login }"
+                                          id="login-form" _lpchecked="1">
+                                        <div class="fieldset login"
+                                             data-bind="attr: {'data-hasrequired': $t('* Required Fields')}"
+                                             data-hasrequired="* Required Fields">
+                                            <div class="field email required">
+                                                <label class="label" for="customer-email">
+                                                    <span data-bind="i18n: 'Email Address'">Email Address</span>
+                                                </label>
+
+                                                <div class="control">
+                                                    <input name="username" id="customer-email" type="email"
+                                                           class="input-text"
+                                                           data-mage-init="{&quot;mage/trim-input&quot;:{}}"
+                                                           data-bind="attr: {autocomplete: autocomplete}"
+                                                           data-validate="{required:true, 'validate-email':true}"
+                                                           autocomplete="off"
+                                                           style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAPhJREFUOBHlU70KgzAQPlMhEvoQTg6OPoOjT+JWOnRqkUKHgqWP4OQbOPokTk6OTkVULNSLVc62oJmbIdzd95NcuGjX2/3YVI/Ts+t0WLE2ut5xsQ0O+90F6UxFjAI8qNcEGONia08e6MNONYwCS7EQAizLmtGUDEzTBNd1fxsYhjEBnHPQNG3KKTYV34F8ec/zwHEciOMYyrIE3/ehKAqIoggo9inGXKmFXwbyBkmSQJqmUNe15IRhCG3byphitm1/eUzDM4qR0TTNjEixGdAnSi3keS5vSk2UDKqqgizLqB4YzvassiKhGtZ/jDMtLOnHz7TE+yf8BaDZXA509yeBAAAAAElFTkSuQmCC&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;"/>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="field password required">
+                                                <label for="pass" class="label">
+                                                    <span data-bind="i18n: 'Password'">Password</span>
+                                                </label>
+
+                                                <div class="control">
+                                                    <input name="password" type="password" class="input-text" id="pass"
+                                                           data-bind="attr: {autocomplete: autocomplete}"
+                                                           data-validate="{required:true}" autocomplete="off"
+                                                           style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAPhJREFUOBHlU70KgzAQPlMhEvoQTg6OPoOjT+JWOnRqkUKHgqWP4OQbOPokTk6OTkVULNSLVc62oJmbIdzd95NcuGjX2/3YVI/Ts+t0WLE2ut5xsQ0O+90F6UxFjAI8qNcEGONia08e6MNONYwCS7EQAizLmtGUDEzTBNd1fxsYhjEBnHPQNG3KKTYV34F8ec/zwHEciOMYyrIE3/ehKAqIoggo9inGXKmFXwbyBkmSQJqmUNe15IRhCG3byphitm1/eUzDM4qR0TTNjEixGdAnSi3keS5vSk2UDKqqgizLqB4YzvassiKhGtZ/jDMtLOnHz7TE+yf8BaDZXA509yeBAAAAAElFTkSuQmCC&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;"/>
+
+                                                </div>
+
+                                            </div>
+
+                                            <!-- ko foreach: getRegion('additional-login-form-fields') -->
+                                            <!-- ko template: getTemplate() -->
+                                            <input name="captcha_form_id" type="hidden"
+                                                   data-bind="value: formId,  attr: {'data-scope': dataScope}"
+                                                   value="user_login" data-scope=""/>
+                                            <!-- ko if: (isRequired() && getIsVisible())--><!-- /ko -->
+                                            <!-- /ko -->
+                                            <!-- /ko -->
+                                            <div class="actions-toolbar">
+                                                <input name="context" type="hidden" value="checkout"/>
+                                                <div class="primary">
+                                                    <button type="submit" class="action action-login secondary"
+                                                            name="send" id="send2">
+                                                        <span data-bind="i18n: 'Sign In'">Sign In</span>
+                                                    </button>
+
+                                                </div>
+
+                                                <div class="secondary">
+                                                    <a class="action" data-bind="attr: {href: forgotPasswordUrl}"
+                                                       href="#">
+                                                        <span data-bind="i18n: 'Forgot Your Password?'">Forgot Your
+                                                            Password?
+                                                        </span>
+                                                    </a>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </form>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div data-role="focusable-end" tabindex="0"/>
+            </aside>
+        </div>
+    </body>
+</html>
